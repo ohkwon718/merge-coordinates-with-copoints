@@ -21,5 +21,3 @@ door_lecture1 -287.9 -11.8 244.5
 door_lecture2 -287.9 -11.8 0
 door_lecture3 -162.6 -12.5 0
 door_lecture4 -162.6 -12.5 245
-pillar_close1 -313.3 -235.5 0
-pillar_close4 -350.2 -233.5 0
